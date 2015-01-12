@@ -17,9 +17,9 @@ Parts to the project
 -needs to have a chat limit of 2 people per chat
 -lobby/que based pairing system, people are placed into a waitlist
 -a number that indicates how many users are in the waitlist
-/Extra Stuff for the JAPP/ 
+/<b>Extra Stuff for the JAPP</b>/ 
 -Custom Skins (boarders)
 -ranking system
   -After a win/loss you can select an option to indicate who won/loss. This will update their profile's win/loss area in the DB.
-  Both parties must agree to the same results. If indicated win/loss input is not the same for both parties then the rating   for that session gets thrown out. 
+  Both parties must agree to the same results. If indicated win/loss input is not the same for both parties then the rating    for that session gets thrown out. 
   -Possibly add a check that prevents people from farming wins by adding an hour delay for ranking the same person. Also make    it so that you cannot connect to yourself via a different browser/different session.
